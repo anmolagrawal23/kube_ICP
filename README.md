@@ -4,12 +4,12 @@ This lab is to kick start your journey IBM Container Service, You can find instr
 
 # Setting up environment
 Set up IBM Cloud CLI : Command line interface to manage applications, containers, infrastructures, services
-https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html#getting-started
+https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use
 verify by using command like bx help
 
 Install IBM cloud CLI(bx) :
 ```
-https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html#getting-started
+https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use
 ```
 
 Install container service  Plugins :
